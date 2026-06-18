@@ -42,6 +42,17 @@ Backend & AI Infrastructure Engineer focused on helping AI startups and develope
 - Developer tools
 - Open-source backend systems
 
+## 🏗 Featured Projects
+
+### Ironsail Prescription API
+Healthcare AI backend built with FastAPI, PostgreSQL, and Groq.
+
+### Seyah Workflow Automation
+AI-powered workflow orchestration platform.
+
+### Garkuwa Security Bot
+Telegram moderation and security platform.
+
 ## 💬 Ask Me About
 
 - FastAPI
@@ -49,3 +60,15 @@ Backend & AI Infrastructure Engineer focused on helping AI startups and develope
 - AI integrations
 - Railway deployments
 - Open-source proof-of-work strategy
+
+
+## 📫 Contact
+
+Portfolio:
+bashops.netlify.app
+
+Email:
+bashops1@gmail.com
+
+LinkedIn:
+linkedin.com/in/btech67
