@@ -2,18 +2,38 @@
 
 Backend & AI Infrastructure Engineer focused on helping AI startups and developer-tool companies ship faster through backend reliability, API integrations, and production fixes.
 
+## 🛠 Core Stack
+
+- Python
+- FastAPI
+- PostgreSQL
+- AsyncIO
+- Docker
+- Railway
+- OpenAI
+- Groq
+- LangChain
+
+  
 ## 🔭 Currently Working On
 
 - Aegra OSS contribution (PR #428)
 - Stagewise OSS contribution (PR #1338)
 - Backend reliability and AI infrastructure projects
 
-## 🌱 Currently Learning
+## 🔥 Recent Open Source Activity
 
-- AI agent infrastructure
-- MCP integrations
-- Production-scale AI systems
-- Developer tooling platforms
+### Aegra
+- Fixed SSE database session lifetime handling
+- Open PR #428
+
+### Stagewise
+- Fixed Git branch lookup and fetch reliability issues
+- Active PR under review (#1338)
+
+### Sova
+- Added API request validation
+- PR #173 merged
 
 ## 👯 Looking to Collaborate On
 
