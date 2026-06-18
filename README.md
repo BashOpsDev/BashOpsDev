@@ -61,6 +61,14 @@ Telegram moderation and security platform.
 - Railway deployments
 - Open-source proof-of-work strategy
 
+## 💼 Open To
+
+- Backend Development
+- API Integrations
+- AI Infrastructure
+- FastAPI Projects
+- Short-Term Implementation Sprints
+
 
 ## 📫 Contact
 
