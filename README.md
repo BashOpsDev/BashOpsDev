@@ -1,82 +1,100 @@
-# Hi, I'm Bashir Abubakar 👋
+Hi, I'm Bashir Abubakar 👋
 
-Backend & AI Infrastructure Engineer focused on helping AI startups and developer-tool companies ship faster through backend reliability, API integrations, and production fixes.
+Backend & AI Infrastructure Engineer helping AI startups and developer-tool companies improve backend reliability, API integrations, and production systems.
 
-## 🛠 Core Stack
+I use targeted open-source contributions as proof-of-work by solving real issues in active products and developer platforms.
+
+---
+
+🚀 Recent OSS Impact
+
+Aegra — PR #428 (Merged)
+
+FastAPI • SQLAlchemy • Infrastructure Reliability
+
+- Fixed database session lifetime issues in SSE streaming endpoints
+- Prevented long-lived streaming connections from holding database resources
+- Improved scalability and database connection utilization
+
+Sova — PR #175 (Merged)
+
+Backend Validation • Developer Experience
+
+- Improved API validation and commit workflow reliability
+- Added production-grade validation safeguards
+- Successfully merged into main
+
+Stagewise — PR #1338 (Under Review)
+
+Developer Tools • Git Infrastructure
+
+- Improved Git branch lookup reliability
+- Fixed remote synchronization and fetch-related edge cases
+
+Sourcebot — PR #1352 (Under Review)
+
+AI Code Review Infrastructure
+
+- Improved private GitHub Pull Request diff retrieval
+- Replaced failing direct diff access with authenticated GitHub API fetching
+
+---
+
+🛠 Core Technologies
 
 - Python
 - FastAPI
 - PostgreSQL
+- SQLAlchemy
 - AsyncIO
 - Docker
-- Railway
+- REST APIs
 - OpenAI
 - Groq
 - LangChain
+- Railway
 
-  
-## 🔭 Currently Working On
+---
 
-- Aegra OSS contribution (PR #428)
-- Stagewise OSS contribution (PR #1338)
-- Backend reliability and AI infrastructure projects
+🏗 Selected Projects
 
-## 🔥 Recent Open Source Activity
+Ironsail Prescription API
 
-### Aegra
-- Fixed SSE database session lifetime handling
-- Open PR #428
+Healthcare-focused AI backend built with FastAPI, PostgreSQL, and Groq.
 
-### Stagewise
-- Fixed Git branch lookup and fetch reliability issues
-- Active PR under review (#1338)
+Seyah Workflow Automation
 
-### Sova
-- Added API request validation
-- PR #173 merged
+AI-powered workflow orchestration platform focused on automating operational workflows.
 
-## 👯 Looking to Collaborate On
+---
 
-- FastAPI projects
-- AI infrastructure
-- Developer tools
-- Open-source backend systems
+🎯 Focus Areas
 
-## 🏗 Featured Projects
-
-### Ironsail Prescription API
-Healthcare AI backend built with FastAPI, PostgreSQL, and Groq.
-
-### Seyah Workflow Automation
-AI-powered workflow orchestration platform.
-
-### Garkuwa Security Bot
-Telegram moderation and security platform.
-
-## 💬 Ask Me About
-
-- FastAPI
-- Python backend engineering
-- AI integrations
-- Railway deployments
-- Open-source proof-of-work strategy
-
-## 💼 Open To
-
-- Backend Development
-- API Integrations
+- Backend Reliability
+- API Development
 - AI Infrastructure
-- FastAPI Projects
-- Short-Term Implementation Sprints
+- Developer Tools
+- FastAPI Systems
+- Async Python
+- Production Systems
 
+---
 
-## 📫 Contact
+💬 Ask Me About
 
-Portfolio:
-bashops.netlify.app
+- FastAPI Architecture
+- Backend Reliability
+- Async Python
+- API Integrations
+- AI Systems
+- Open-Source Proof of Work
 
-Email:
-bashops1@gmail.com
+---
 
-LinkedIn:
-linkedin.com/in/btech67
+📫 Contact
+
+Portfolio: bashops.netlify.app
+
+Email: bashops1@gmail.com
+
+LinkedIn: linkedin.com/in/btech67
